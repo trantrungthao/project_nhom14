@@ -76,5 +76,6 @@ public class DownloadFile_Server {
 	public static void main(String argv[]) throws ClassNotFoundException, SQLException {
 		DownloadFile_Server load = new DownloadFile_Server();
 		load.DownloadFie();
+		
 	}
 }
